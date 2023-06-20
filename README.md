@@ -7,6 +7,9 @@
 ### Link Video : https://youtu.be/sR9midpmemU
 ### Rangkaian dan Penjelasan
 ESP32 GPS Location Web Server with Google Maps
+Rangkaian Scematic
+![image](https://github.com/Rahmiatul12/Uas_Micro_Controller/assets/102578803/8a61102e-f52b-4a47-9608-09c801bf1a73)
+
 Komponen yang dibutuhkan:
 -	ESP32 Lite
 -	GPS Neo6mV2
