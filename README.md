@@ -28,7 +28,8 @@ Langkah-langkah:
    ![image](https://github.com/Rahmiatul12/Uas_Micro_Controller/assets/102578803/f108fc2a-5aca-4dac-a8f0-f51bda5f100a)
 
 7.	Setelah indikator menyala yang artinya gps sudah mendapatkan sinyal, buka browser dan masukkan ip address esp
-   ![image]
+![image]
+
 ![image](https://github.com/Rahmiatul12/Uas_Micro_Controller/assets/102578803/ec2fabd2-8084-4c06-a616-6c040e098217)
   	![image]
 ![image](https://github.com/Rahmiatul12/Uas_Micro_Controller/assets/102578803/6c3a379d-017b-434a-b946-bbe06f2187d9)
